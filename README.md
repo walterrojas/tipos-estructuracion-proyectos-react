@@ -1,4 +1,4 @@
-# Tipos de Organización y Estructuracion de Proyectos React
+# Tipos de Organización y Estructuración de Proyectos React
 
 ## ¿Cómo podemos organizar y estructurar un proyecto React?
 
@@ -25,7 +25,7 @@ Simple y directo
 
 Por ejemplo: tenemos que un proyecto que tiene bastante codigo relacionado con pagos. Un día, todo el negocio cambia y deja de ser necesario todo lo relacionado a pagos, ¿qué tan fácil es reemplazar o eliminar el codigo relacionado? Con esta estructura de carpetas, tendrás que revisar cada carpeta y sus archivos para realizar los cambios necesarios. Y si el proyecto sigue creciendo, pronto se convertirá en un dolor de cabeza para poder mantenerlo y el cual solo empeorará con el tiempo.
 
-## 2) Organización por Tipos de Archivos y Featues ( _Recomendado para proyectos de tamaño mediano a grande_ )
+## 2) Organización por Tipos de Archivos y Features ( _Recomendado para proyectos de tamaño mediano a grande_ )
 Para los casos en que los proyectos siguen creciendo, podemos usar este tipo de organizacación por features dentro de cada tipo de archivo
 
 <img width="404" alt="2-estructuracion-por-tipo-archivos-y-features" src="https://github.com/user-attachments/assets/8859928c-1099-4a45-aa5f-e8fb07637aee" />
@@ -46,7 +46,7 @@ Por ejemplo: Volviendo al problema anterior, donde el módulo de pagos debe modi
 Esta estructura de carpetas es la que recomendaría si no sabes qué elegir.
 
 
-## 3) Organización por Featues o módulos ( _Recomendado para proyectos de tamaño grande y complejo_ )
+## 3) Organización por Features o módulos ( _Recomendado para proyectos de tamaño grande y complejo_ )
 Para proyectos más grandes, esta organización nos ofrece un enfoque altamente modular, definiendo límites claros para diferentes aspectos de la aplicación dentro de cada módulo:
 
 <img width="344" alt="3-estructuracion-por-features-o-modulos" src="https://github.com/user-attachments/assets/c654144a-ad51-4133-b0ce-036b4c13a67d" />
